@@ -9,9 +9,7 @@ const addvalue = ()=>{
   }
   else{
   setCounter(counter+1);
-  setCounter(counter+1);
-  setCounter(counter+1);
-  setCounter(counter+1);
+  
 }
 }
 const decValue = ()=>{
