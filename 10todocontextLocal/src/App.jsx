@@ -31,7 +31,7 @@ const toggleComplete = (id)=>{
 
  },[])
  
-
+// USeEffect hook
  useEffect(()=>{
   localStorage.setItem("todos",JSON.stringify(todos))
  } ,[todos])
